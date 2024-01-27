@@ -1,0 +1,25 @@
+{
+  "area": "大关",
+  "openHours": "10:00-22:00",
+  "sold": 4215,
+  "address": "金华路锦昌文华苑29号",
+  "comments": 3035,
+  "avgPrice": 80,
+  "score": 37,
+  "name": "101茶餐厅",
+  "typeId": 1,
+  "id": 1
+}
+
+{
+    "shopId": 1,
+    "title": "100元代金券",
+    "subTitle": "限周一至周五使用",
+    "rules": "全场通用\\n无需预约\\n可无限叠加\\不兑现、不找零\\n仅限堂食",
+    "payValue": 80,
+    "actualValue": 100,
+    "type": 1,
+    "stock": 100,
+    "beginTime": "2023-02-12T19:38:42",
+    "endTime": "2023-02-13T23:38:42"
+}
